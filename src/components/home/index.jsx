@@ -7,7 +7,7 @@ export default class Home extends Component {
       <div className="home">
         {/* 头图 */}
         <div className="home-img">
-          <img src={'/5.jpg'} alt="" />
+          <img src={'./5.jpg'} alt="" />
         </div>
 
         <div className="home-text">
