@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,gBAEI,UAAW,CACX,iBAAkB,CAHtB,iBAOI,eAAgB","file":"main.fed22c73.chunk.css","sourcesContent":[".home {\r\n  .home-img {\r\n    float: left;\r\n    margin-right: 20px;\r\n  }\r\n\r\n  .home-text {\r\n    text-indent: 2em;\r\n  }\r\n}\r\n"]}
